@@ -1,3 +1,1 @@
-# BTVN_03 Sử dụng listview để hiển thị thông tin sinh viên biết:
-#         - Nút add Name: lấy thông tin từ các textbox thêm vào listview
-#         - Click chuột lên từng sinh viên trong listview, dữ liệu sẽ hiển thị ngược lên các textbox
+# BTVN_03 Sử dụng listview để hiển thị thông tin sinh viên biết: Nút add Name: lấy thông tin từ các textbox thêm vào listview. Click chuột lên từng sinh viên trong listview, dữ liệu sẽ hiển thị ngược lên các textbox
